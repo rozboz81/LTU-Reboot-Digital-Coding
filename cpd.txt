@@ -2,21 +2,19 @@ CPD - Continuing Professional Development
 
 
 Date of CPD activity
-19/01/2021
+26/01/2021
 
 CPD activity
 Introduction to Web Development
 
 
-What have I learnt? How to create a repository and where to find help and advice online to further develop my skills
+What have I learnt? Looking at different tags and elements within HTML
 
-I learnt about the different positions in web development, like what a front end developer is and does....
+How did I use this in practice? 
 
-
-How did I use this in practice? I will use this for my own website
-
+We altered some text to add different tags and added images and links 
 
 
 
-What did I find hard? I think some of the jargon is confusing for now
+What did I find hard? Keeping up with everything!
 
