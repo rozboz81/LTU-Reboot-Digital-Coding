@@ -1,3 +1,29 @@
 /* Your code goes below here */
-
-/* Your code goes above here */
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color:blue;
+  }
+  
+  h1 {
+    font-size: 50px;
+    font-weight:bold;
+  }
+  
+  h2 {
+    font-size: 30px;
+    font-style: oblique;
+  }
+  
+  h3 {
+    font-size: 18px;
+  }
+  
+  p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color:red;
+  }
+  
+  
+  /* Your code goes above here */
