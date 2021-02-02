@@ -1,3 +1,21 @@
 /* Your code goes below here */
 
-/* Your code goes above here */
+#main-heading {   /* This is an id */
+    color: red;
+  }
+  
+  #paragraph-tag{
+    color:red;
+  }
+  
+  .font-blue {      /* This is a class */
+    color: blue;
+  }
+  
+  .list-container{
+    padding:30px;
+    background:yellow;
+    border: 1px solid blue;
+    border-radius:10px;
+  }
+  /* Your code goes above here */
