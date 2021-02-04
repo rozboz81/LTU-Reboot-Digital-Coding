@@ -1,22 +1,22 @@
 .container {
-  border: 4px dashed orange;
-  width: 90%;
-  margin: auto;
-  padding: 10px;
+  padding: 30px;
+  max-width;: 700px;
+  margin: 0 auto;
 }
 
 header, main, footer {
-  width: 90%;
-  height: 300px;
-  margin: 10px auto;
+  padding:20px;
 }
 
 header {
   border: 4px solid green;
+
 }
 
 main {
   border: 4px dotted red;
+  border-top:none;
+  border-bottom:none;
 }
 
 footer {
