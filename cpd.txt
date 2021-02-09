@@ -2,19 +2,15 @@ CPD - Continuing Professional Development
 
 
 Date of CPD activity
-04/02/2021
+09/02/2021
 
 CPD activity
 Introduction to Web Development
 
 
-What have I learnt? Looking at boxes and how to move text around relative to its position in the box
+What have I learnt? Using float to arrnage where things sit on a page
 
-How did I use this in practice? 
+How did I use this in practice? Looking at adding images, text and a sidebar into a website and using float to arrnage where things sit on a page
 
-We altered some text to add different elements and then added text on top of an image
-
-
-
-What did I find hard? It was difficult to spot my own typos!
+What did I find hard? Remembering to save the code so the site updated when going live
 
