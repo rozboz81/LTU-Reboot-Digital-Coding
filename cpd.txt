@@ -2,15 +2,14 @@ CPD - Continuing Professional Development
 
 
 Date of CPD activity
-09/02/2021
+16/02/2021
 
 CPD activity
 Introduction to Web Development
 
 
-What have I learnt? Using float to arrnage where things sit on a page
+What have I learnt? We looked at Javascript and how to make different things return in the console
 
-How did I use this in practice? Looking at adding images, text and a sidebar into a website and using float to arrnage where things sit on a page
+How did I use this in practice? We looked at a simple output to do with temperatures and whether or not you should wear a code
 
-What did I find hard? Remembering to save the code so the site updated when going live
-
+What did I find hard? Making sure the case matched as capitals/lowecase can mean different things in code.
