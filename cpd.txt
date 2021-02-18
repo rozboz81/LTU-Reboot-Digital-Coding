@@ -2,14 +2,15 @@ CPD - Continuing Professional Development
 
 
 Date of CPD activity
-16/02/2021
+18/02/2021
 
 CPD activity
 Introduction to Web Development
 
 
-What have I learnt? We looked at Javascript and how to make different things return in the console
+What have I learnt? We looked at Javascript and how to use switches in the coding
 
-How did I use this in practice? We looked at a simple output to do with temperatures and whether or not you should wear a code
+How did I use this in practice? 
+We made a simple calculator and also a script that said what drink/size we had ordered
 
-What did I find hard? Making sure the case matched as capitals/lowecase can mean different things in code.
+What did I find hard? I really do not get what is happening in the code at the moment, so this is something I am going to have to look into on FreeCodeCamp in my own time. I have completed the html course on there so far, which helped cement my understanding.
