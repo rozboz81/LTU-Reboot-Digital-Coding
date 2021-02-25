@@ -1,4 +1,4 @@
-let shoppingCart = [
+let arrShoppingCart = [
   {
     name:"loaf of bread",
     type:"food",
@@ -59,3 +59,35 @@ let shoppingCart = [
   quantity:3,
   price:.4
 }];
+
+function getTotalPrice(arrShoppingCart=[],objCoupon={}){
+  let total = 0;
+  let itemPrice = 0;
+  for(var counter=0; counter < arrShoppingCart.length; counter++){
+    // console.log(counter);
+    var objItem = arrShoppingCart[counter];
+    // console.log(objItem);
+    itemPrice = parseFloat(objItem.quantity) * parseFloat(objItem.price);
+    // console.log(itemPrice);
+    if(objCoupon && objCoupon.type == 'percentage'){
+      if(objCoupon.category == objItem.type || objCoupon.category == 'all'){
+        itemPrice = (itemPrice/100) * (100 - objCoupon.value);
+        // console.log(itemPrice);
+      } 
+    }
+    total = total + itemPrice;
+    // console.log(total);
+  }
+  if(objCoupon && objCoupon.type == 'total'){
+    total = total - objCoupon.value;
+  }
+  return total.toFixed(2);
+}
+let objCoupon = {
+  name:'20OFF',
+  value:20,
+  category:'food',
+  type:'percentage'
+};
+let cartTotal = getTotalPrice(arrShoppingCart,objCoupon);
+console.log(cartTotal);
